@@ -1,0 +1,28 @@
+{
+  "name": "to-do-crud-api",
+  "version": "1.0.0",
+  "description": "a",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongodb": "^3.1.13",
+    "validator": "^10.11.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parmeet1402/to-do-crud-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/parmeet1402/to-do-crud-api/issues"
+  },
+  "homepage": "https://github.com/parmeet1402/to-do-crud-api#readme"
+}
